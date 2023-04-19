@@ -1,0 +1,59 @@
+footer{
+    height: 200px;
+    padding: 50px 100px;
+    background-color:navy;
+    color:white;
+    display: flex;
+    
+}
+footer .first{
+    width: 40%;
+
+}
+footer .row3{
+    display: flex;
+    column-gap: 30px;
+}
+footer .row2{
+   width: 60%;
+}
+footer .second{
+    width: 20%;
+}
+footer .third{
+    width: 20%;
+}
+footer .last{
+    width: 20%;
+}
+.second ul li {
+    list-style: none;
+  
+}
+
+.second ul li a{
+    color:white;
+    list-style: none;
+    text-decoration: none;
+}
+
+.third ul li {
+    list-style: none;
+  
+}
+
+.third ul li a{
+    color:white;
+    list-style: none;
+    text-decoration: none;
+}
+.last ul li {
+    list-style: none;
+  
+}
+
+.last ul li a{
+    color:white;
+    list-style: none;
+    text-decoration: none;
+}

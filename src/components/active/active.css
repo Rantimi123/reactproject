@@ -1,0 +1,32 @@
+.Wrap{
+    width: 100%;
+    height:100%;
+    
+    margin-bottom: 30px;
+}
+.Wrap h3{
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+   
+
+}
+.Wrap span{
+    color: blueviolet;
+    
+}
+.Wrap p{
+    text-align: center;
+    
+}
+ .button{
+  
+    width: auto;
+   text-align: center;
+}
+.Wrap .img{
+    background-size: cover;
+    width: 100%;
+    margin-top: 15px;
+
+}
